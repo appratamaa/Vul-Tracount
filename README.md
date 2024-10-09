@@ -9,6 +9,6 @@ Fitur:
 |:-------------------:|:-----------------:|
 | Andre Putra Pratama | Telkom University |
 
-|       Client        | Universitas                |
+|       Client        |         Universitas        |
 |:-------------------:|:---------------------------|
 |   Saeful Hidayat    | Universitas Islam Bandung  |
