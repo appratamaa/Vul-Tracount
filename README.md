@@ -1,5 +1,5 @@
 # Vul Tracount
-Aplikasi Evul Traffic Control. Menghitung kendaraan yang lewat di jalan sesuai jenisnya dan dibagikan hasilnya menjadi excel.
+Aplikasi Evul Traffic Counter. Menghitung kendaraan yang lewat di jalan sesuai jenisnya dan dibagikan hasilnya menjadi excel.
 
 Fitur:
 1. Menghitung kendaraan sesuai jenisnya.
