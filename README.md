@@ -5,8 +5,10 @@ Fitur:
 1. Menghitung kendaraan sesuai jenisnya.
 2. Membagikan hasil menjadi tabel excel.
 
-| Developer           | Universitas       |
+|      Developer      |    Universitas    |
+|:-------------------:|:-----------------:|
 | Andre Putra Pratama | Telkom University |
 
-| Client         | Universitas               |
-| Saeful Hidayat | Universitas Islam Bandung |
+|       Client        | Universitas                |
+|:-------------------:|:---------------------------|
+|   Saeful Hidayat    | Universitas Islam Bandung  |
